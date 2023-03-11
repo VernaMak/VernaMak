@@ -1,9 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Verna Mai</h1>
 
-<div align="center">
+<div align="center" >
  <img style="width:350px;height:200px;" src="https://user-images.githubusercontent.com/91351209/224514026-275df0a3-7798-4060-9a31-ed53d8f78ca3.gif" alt="video_loop">
 </div>
 
+<img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff">
+
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff">
+
+- 📫 How to reach me **vernamai9@gmail.com**
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VERNAMAK&show_icons=true&theme=radical)
 
