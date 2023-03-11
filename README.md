@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Verna Mai</h1>
-<div style="width:20%;height:30%;">
+<div style="width:100px;height:200px;">
  <img src="https://user-images.githubusercontent.com/91351209/224514026-275df0a3-7798-4060-9a31-ed53d8f78ca3.gif" alt="video_loop">
 </div>
 
