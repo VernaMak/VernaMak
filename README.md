@@ -4,7 +4,10 @@
  <img style="width:350px;height:200px;" src="https://user-images.githubusercontent.com/91351209/224514026-275df0a3-7798-4060-9a31-ed53d8f78ca3.gif" alt="video_loop">
 </div>
 
-！[Github stats](https://github-readme-stats.vercel.app/api?username=VernaMak&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VERNAMAK&show_icons=true&theme=radical)
+
+
 
 <p align="left"></p>
 
