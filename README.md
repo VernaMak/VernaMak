@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Verna Mai</h1>
-
+<div style="width:30px;height:40px>
 ![video_loop](https://user-images.githubusercontent.com/91351209/224514026-275df0a3-7798-4060-9a31-ed53d8f78ca3.gif)
-
+</div>
 
 
 
