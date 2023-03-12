@@ -1,6 +1,6 @@
 <div align="center" >
-<h1 align="center">Hi 👋, I'm Verna Mai</h1>
-
+<h1 align="center">Hi 👋, I'm Verna Mai <img style="width:50px;height:50px" src="https://em-content.zobj.net/source/microsoft-teams/337/smiling-face-with-sunglasses_1f60e.png">
+</h1>
 
  <img style="width:350px;height:200px;" src="https://user-images.githubusercontent.com/91351209/224514026-275df0a3-7798-4060-9a31-ed53d8f78ca3.gif" alt="video_loop">
 <br></br>
